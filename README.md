@@ -1,14 +1,8 @@
-## Hi there 👋
-
-<!--
-**sdegroot13/sdegroot13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # 🦈 Hi, I'm Sophie:
 MSci student in Natural Sciences<br>Currently working on CBT/ERPT companion app<br>Interested in number theory, astrobiology, nuclear fusion technology, psychiatry & neuroscience
 
 
-## 🕺 Socials:
+# 🕺 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sdegroot13) 
 
 # 💻 Tech Stack:
